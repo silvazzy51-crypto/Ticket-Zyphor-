@@ -1,1 +1,12 @@
-
+{
+  "name": "zyphor-ticket",
+  "version": "1.0.0",
+  "description": "Sistema de tickets Zyphor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
